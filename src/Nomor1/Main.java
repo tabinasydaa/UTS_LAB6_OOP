@@ -58,7 +58,6 @@ class Book{
         return title + " oleh " + author + ", terbit tahun " + year + ", dengan harga " + price;
     }
 }
-
 public class Main {
     public static void main(String[] args) {
         //membuat objek Book dengan menggunakan construtor
